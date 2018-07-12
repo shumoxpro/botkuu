@@ -6,7 +6,7 @@
 * pkg install php
 * pkg install bash
 * pkg install git
-* git clone https://github.com/fikrifar/toolsccocot
+* git clone https://github.com/shumoxpro/botkuu
 * cd toolscoccot
 * unzip node_modules.zip
 
@@ -32,5 +32,5 @@ And select number 7
 Ccocot & NaonlahNet & Bc0de.net & Wingkocoli & Dandy & Jrxuii & Auliaahmad16 & Huttarichard
 
 # Follow 
-* Instagram = https://www.instagram.com/mazfikri001
-* Facebook  = https://www.facebook.com/mazfikri001
+* Instagram = https://www.instagram.com/richardochris
+* Facebook  = https://www.facebook.com/richardochriss
